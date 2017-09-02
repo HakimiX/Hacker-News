@@ -3,6 +3,13 @@ Hacker News
 
 Requirements Analysis Document (RAD)
 
+Product Backlog
+
+| ID | TYPE | NAME | NOTE | HOW TO DEMO | TIME
+| --- | --- | --- | --- | --- | --- |
+| 1 | Functional | Login | As a registered user you should be able to Login | Press Login button | 5 |
+| 2 | Functional | Create Account | As an unregistered user you should be able to create an account | Press Register button | 5 |
+
 1. Introduction 
     * Purpose of the system
     * Scope of the system
